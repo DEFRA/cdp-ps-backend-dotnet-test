@@ -1,4 +1,4 @@
-# CDP C# ASP.NET Backend Template
+# cdp-ps-backend-dotnet-test
 
 Core delivery C# ASP.NET backend template.
 
@@ -37,7 +37,7 @@ dotnet test
 
 Run CDP-Deployments application:
 ```bash
-dotnet run --project Backend.Api --launch-profile Development
+dotnet run --project CdpPsBackendDotnetTest --launch-profile Development
 ```
 
 ### SonarCloud
